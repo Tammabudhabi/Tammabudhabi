@@ -1,0 +1,166 @@
+$main-font: "CircularStd",'NotoKufi', sans-serif;
+$second-ff: "CircularStd", sans-serif;
+
+$color-background: #ededed;
+$color-header-background : #fff;
+$color-background-light: #f9f9f9;
+$color-background-lighter: #ededed;
+$color-background-lightest: #d6d6d6 ;
+$color-background-dimmed: rgba(45, 41, 76, 0.7);
+$color-text-primary: #161338;
+$color-hover-primary: #fff;
+$color-text-secondary: #16183f;
+$color-bg-primary : #fff;
+
+// Font Size 
+$baseFontSize: 16px; 
+$fontSize-xxxxl: 7.2rem; // 72px
+$fontSize-xxxl: 4.2rem; // 42px
+$fontSize-xxl: 3.0rem; // 30px
+$fontSize-xl: 2.4rem; // 24px
+$fontSize-l: 2.0rem; // 20px
+$fontSize-mm: 1.8rem; // 18px
+$fontSize-m: 1.6rem; // 16px
+$fontSize-s:  1.3rem; // 13px
+
+$primary-color2: #005971;
+$primary-color3: #f67707;
+
+$secondary-color1: #675824;
+$secondary-color2: #7D4C2B;
+$secondary-color3: #475C58;
+$secondary-color4: #5A546F;
+$secondary-color5: #6F5129;
+
+// TODO: find a suitable variable name for the color below.
+$color-tab: #005971;
+$color-tab-light: #33bed2;
+$color-tab-dark: #00abc5;
+$color-success: #87c084;
+$color-danger: #d0021b;
+$color-warning: #f67707;
+$color-processing: #f2bf65;
+$color-pending: #d0d0d0;
+$color-hold: #3c3c3c;
+$color-warning-lighter: #fff8cc;
+$color-icons-selected: #33bbd0;
+$color-border-rounded: #fff;
+
+$msg-background: #161138;
+$msg-secondary: #25697b;
+$color-select-border: #ededed;
+$color-border: #d0cfd7;
+$color-border-secondary: #9b9b9b;
+$accordion-body: #f4f4f5;
+$table-border: #2d294c;
+$input-border: #4e4e4e;
+$smile-unactive: #6d6e6d;
+$meta-info-border: #dee2e6;
+
+$progress-bar-line: #c8cfd6;
+
+$color-anchor-hover: #737087;
+$active-progress-step: #161138;
+$seprator-color: rgba(0, 0, 0, 0.2);
+
+$wizard-title-color: #15173e;
+
+$form-heading-color: #800080;
+
+//Icomoon Variables
+$icomoon-font-family: 'icomoon' !default;
+$icomoon-font-path: '../assets/fonts' !default;
+
+
+
+$icon-plus: "\e900";
+$icon-delete: "\e901";
+$icon-refresh: "\e902";
+$icon-warning: "\e903";
+$icon-info: "\e904";
+$icon-calendar: "\e905";
+$icon-checkbox-checked: "\e906";
+$icon-checkbox-unchecked: "\e907";
+$icon-checkmark-thin: "\e908";
+$icon-checkmark: "\eac7";
+$icon-chevron-down: "\e90a";
+$icon-chevron-left: "\e90b";
+$icon-chevron-right: "\e90c";
+$icon-chevron-up: "\e90d";
+$icon-close: "\e90e";
+$icon-happy-filled: "\e90f";
+$icon-happy: "\e910";
+$icon-long-arrow-down: "\e911";
+$icon-long-arrow-left: "\e912";
+$icon-long-arrow-right: "\e913";
+$icon-long-arrow-up: "\e914";
+$icon-map-marker: "\e915";
+$icon-minus: "\e916";
+$icon-neutral-filled: "\e917";
+$icon-neutral: "\e918";
+$icon-radio-checked: "\e919";
+$icon-radio-unchecked: "\e91a";
+$icon-sad-filled: "\e91b";
+$icon-sad: "\e91c";
+$icon-search: "\e91d";
+$icon-feedback: "\e913";
+$icon-send: "\e91f";
+$icon-announce: "\e920";
+$icon-chat: "\e921";
+$icon-phone: "\e922";
+$icon-facebook: "\e923";
+$icon-google-plus: "\e924";
+$icon-linkedIn: "\e925";
+$icon-twitter: "\e926";
+$icon-youtube: "\e927";
+$icon-instagram: "\e928";
+$icon-brightness-contrast: "\ea8d";
+$icon-contrast: "\ea8c";
+
+
+
+
+//tamm Variables
+
+$tamm-font-family: 'tamm_icons' !default;
+$tamm-font-path: '../assets/fonts' !default;
+
+$font_reg_en: 'circularStd', Arial, sans-serif;
+$font_reg_en2 : 'roboto-Regular',Arial, sans-serif;
+$font_bold_en: 'CircularStd-Bold', Arial, sans-serif;
+$font_bold_en2: 'roboto-Bold', Arial, sans-serif;
+
+$font_reg_ar: 'NotoKufiArabic', Arial, sans-serif;
+$font_reg_ar2 : 'NotoKufiArabic',Arial, sans-serif;
+$font_bold_ar: 'NotoKufiArabic-Bold', Arial, sans-serif;
+$font_bold_ar2: 'NotoKufiArabic-Bold', Arial, sans-serif;
+
+// tamm icons
+
+$icon--calendar: "\e900";
+$icon--checkbox-checked: "\e901";
+$icon--checkbox-unchecked: "\e902";
+$icon--checkmark-thin: "\e903";
+$icon--checkmark: "\e904";
+$icon--chevron-down: "\e905";
+$icon--chevron-left: "\e906";
+$icon--chevron-right: "\e907";
+$icon--chevron-up: "\e908";
+$icon--close: "\e909";
+$icon--delete: "\e90a";
+$icon--happy-filled: "\e90b";
+$icon--happy: "\e90c";
+$icon--long-arrow-down: "\e90d";
+$icon--long-arrow-left: "\e90e";
+$icon--long-arrow-right: "\e90f";
+$icon--long-arrow-up: "\e910";
+$icon--map-marker: "\e911";
+$icon--minus: "\e912";
+$icon--neutral-filled: "\e913";
+$icon--neutral: "\e914";
+$icon--plus: "\e915";
+$icon--radio-checked: "\e916";
+$icon--radio-unchecked: "\e917";
+$icon--sad-filled: "\e918";
+$icon--sad: "\e919";
+$icon--search: "\e91a";
